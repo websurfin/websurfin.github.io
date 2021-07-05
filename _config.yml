@@ -28,10 +28,11 @@ minima:
 
 # set the order of pages to be included in the header
 header_pages:
-  - index.markdown
-  - about.markdown
-  - projects.markdown
-  - contact.markdown
+  - index.md
+  - about.md
+  - projects.md
+  # - faq.md
+  - contact.md
 
 # show excerpts when including blog posts
 show_excerpts: true
