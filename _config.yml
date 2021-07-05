@@ -18,20 +18,40 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tommy White
-email: tw@tommy-w.com
+title: TOMMY WHITE
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Tommy. I like coding in Python, surfing on the coasts, snowboarding and backpacking in
   the mountains, and relaxing in hammocks. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tommy-w.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tommywhiteml
-github_username:  websurfin
+
+author:
+  name: Tommy White
+  email: "tw@tommy-w.com"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+minima:
+  skin: dark
+  social_links:
+    twitter: tommywhiteml
+    github:  websurfin
+
+remote_theme: jekyll/minima
+
+# set the order of pages to be included in the header
+header_pages:
+  - index.markdown
+  - about.markdown
+  - projects.markdown
+  - contact.markdown
+
+# show excerpts when including blog posts
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
