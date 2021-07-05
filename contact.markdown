@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact.html
+permalink: /contact/
 ---
 
 This is my stub contact page.
