@@ -1,6 +1,7 @@
-// $base-font-size:   18px !default;
+// SET FONT SIZE -- not used for now as I am fine with the 16pt in use 
+// $base-font-size:   18px;
 
-// // SET COLORS
+// SET COLORS
 $background-color: hsl(40, 5%, 12%);
 $site-title-color: #bbbbbb;
 $text-color: #bbbbbb;
@@ -19,7 +20,7 @@ $border-color-01: $brand-color-dark;
 $border-color-02: $brand-color;
 $border-color-03: $brand-color-light;
 
-// // SET FORMATTING VARS
+// SET FORMATTING VARS
 // $base-line-height
 $spacing-unit:      12px;
 $content-width:     1000px;

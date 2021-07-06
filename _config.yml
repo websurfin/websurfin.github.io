@@ -2,6 +2,10 @@
 # Code under <>license, where applicable
 # Content under <>license, where applicable
 
+timezone: America/NYC
+markdown: kramdown
+encoding: utf-8
+
 ## SITE SETTINGS
 title: TOMMY WHITE
 description: >- # this means to ignore newlines until next field
