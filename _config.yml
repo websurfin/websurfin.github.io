@@ -39,10 +39,10 @@ minima:
 # set the order of pages to be included in the header
 header_pages:
   - index.md
-  - about.md
-  - projects.md
-  # - faq.md
-  - contact.md
+  - _pages/about.md
+  - _pages/projects.md
+  # - _pages/faq.md
+  - _pages/contact.md
 
 # show excerpts when including blog posts
 show_excerpts: true
