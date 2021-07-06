@@ -2,7 +2,7 @@
 # Code under <>license, where applicable
 # Content under <>license, where applicable
 
-include: ['_pages'] # import page content
+include: ['_pages', '_pages/proj'] # import page content
 
 timezone: America/NYC
 markdown: kramdown
