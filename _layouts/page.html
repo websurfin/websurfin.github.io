@@ -7,13 +7,18 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
     <p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- if page.date -%}
+        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | date: date_format }}
+        </time>
       {%- if page.modified_date -%}
-          Last edited 
-          {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-          <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-            {{ mdate | date: date_format }}
-          </time>
-        {%- endif -%}
+      {%- endif -%}
+        Last edited 
+        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+          {{ mdate | date: date_format }}
+        </time>
+      {%- endif -%}
     </p>
   </header>
 

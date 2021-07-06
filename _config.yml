@@ -2,9 +2,13 @@
 # Code under <>license, where applicable
 # Content under <>license, where applicable
 
+include: ['_pages'] # import page content
+
 timezone: America/NYC
 markdown: kramdown
 encoding: utf-8
+
+relative_permalinks: false
 
 ## SITE SETTINGS
 title: TOMMY WHITE
