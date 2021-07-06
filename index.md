@@ -6,7 +6,6 @@ layout: home
 title: Home
 ---
 
-
 This is meant to be a simple, portfolio-style site to hold work done by Tommy White as well as blog
 posts. 
 

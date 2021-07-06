@@ -1,25 +1,26 @@
 // $base-font-size:   18px !default;
 
 // // SET COLORS
-// $background-color: hsl(40, 5%, 12%);
+$background-color: hsl(40, 5%, 12%);
 $site-title-color: #bbbbbb;
 $text-color: #bbbbbb;
-$brand-color: #CC6677;
-$brand-color-light: lighten($brand-color, 10%);
+$brand-color: #44AA99;
+$brand-color-light: darken($brand-color, 10%);
 $brand-color-dark: darken($brand-color, 30%);
 
-$h1-color: #44AA99;
-$h2-color: #DDCC77;
+$h1-color: #CC6677;
+$h2-color: $brand-color-light;
 
 $link-base-color: #88CCEE;
-$link-visited-color:    #AA4499;
-// $link-hover-color:      $text-color !default;
+$link-visited-color:    #DDCC77;
+$link-hover-color:      $text-color;
 
-// $border-color-01: $brand-color-dark !default;
-// $border-color-02: $brand-color !default;
-// $border-color-03: $brand-color-light !default;
+$border-color-01: $brand-color-dark;
+$border-color-02: $brand-color;
+$border-color-03: $brand-color-light;
 
 // // SET FORMATTING VARS
-// // $base-line-height
-// $content-width:     1000px;
-// $on-laptop:         1000px;
+// $base-line-height
+$spacing-unit:      12px;
+$content-width:     1000px;
+$on-laptop:         1000px;
