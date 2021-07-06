@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout:             page
+title:              About
+permalink:          /about/
+modified_date:   2021-07-06 1:40:00 +0000
 ---
 ## Looking for work!
 Originally from Seattle, I spent four years completing my bachelor's degree in California before 
