@@ -2,7 +2,7 @@
 layout:             page
 title:              About
 permalink:          /about/
-modified_date:   2021-07-06 13:40:00 -0400
+modified_date:      2021-07-08 13:30:00 -0400
 ---
 ## Looking for work!
 Originally from Seattle, I spent four years completing my bachelor's degree in California before 
