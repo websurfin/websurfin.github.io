@@ -14,11 +14,3 @@ final academic term, then return to full-time after the term ends. I will need t
 remotely or near 
 [Hanover, NH](https://www.google.com/maps/d/embed?mid=17CjOoKyKoYhu9KP5Ru1QmxcKKgM) as well until
 at least September of 2022.
-
-You can find the source code for my resume on Github:
-[websurfin][githome] /
-[hire-me](https://github.com/websurfin/hire-me)
-
-You can find the source code for my projects on my [Github][githome].
-
-[githome]: https://github.com/websurfin
