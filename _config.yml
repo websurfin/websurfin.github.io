@@ -2,7 +2,7 @@
 # Code under <>license, where applicable
 # Content under <>license, where applicable
 
-include: ['_pages', '_pages/proj'] # import page content
+include: ['_pages', '_pages/proj', '_img'] # import page content
 
 timezone: America/NYC
 markdown: kramdown
@@ -13,7 +13,7 @@ relative_permalinks: false
 ## SITE SETTINGS
 title: TOMMY WHITE
 description: >- # this means to ignore newlines until next field
-  Hi, I'm Tommy. I like coding in Python, surfing on the coasts, snowboarding and backpacking in
+  Hi, I'm Tommy. I like coding in Python, surfing on the coasts, snowboarding/backpacking in
   the mountains, and relaxing in hammocks. 
 baseurl: "" # set site subpath to be none (i.e. urls will start at tommy-w.com/)
 url: "https://tommy-w.com" # set base hostname with https
@@ -35,6 +35,7 @@ minima:
   social_links:
     twitter: tommywhiteml
     github:  websurfin
+    linkedin: tommy-white-5083b3109
 
 # set the order of pages to be included in the header
 header_pages:

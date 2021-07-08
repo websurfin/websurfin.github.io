@@ -6,3 +6,14 @@ h1 {
 h2 {
     color: $h2-color;
 }
+
+// table of contents
+#markdown-toc::before {
+  content: "Contents";
+  font-weight: bold;
+}
+
+#markdown-toc {
+  border: 1px solid #bbbbbb;
+  padding: 1.5em;
+}
