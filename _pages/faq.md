@@ -1,7 +1,8 @@
 ---
-layout: page
-title: FAQ
-permalink: /faq/
+layout:             page
+title:              FAQ
+permalink:          /faq/
+modified_date:      2021-07-06 13:40:00 -0400
 ---
 <!-- Currently, file is not being advertised on site due to a lack of questions to add to list. -->
 <!-- To activate this webpage, uncomment line for `faq.md` in `_config.yml` -->

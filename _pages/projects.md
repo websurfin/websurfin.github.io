@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Projects
-permalink: /proj/
+layout:             page
+title:              Projects
+permalink:          /proj/
+modified_date:      2021-07-06 13:40:00 -0400
 ---
 
 * dummy list needed for table of contents
