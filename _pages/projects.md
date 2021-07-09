@@ -2,7 +2,7 @@
 layout:             page
 title:              Projects
 permalink:          /proj/
-modified_date:      2021-07-06 13:40:00 -0400
+modified_date:      2021-07-08 13:40:00 -0400
 ---
 
 * dummy list needed for table of contents
@@ -10,7 +10,6 @@ modified_date:      2021-07-06 13:40:00 -0400
 
 ## Research at Dartmouth
 <br /><center><img src="/_img/dartmouth_baker_tower.jpg" alt="Baker Library at Dartmouth" width="600"></center> <br />
-<!-- ![Baker Library at Dartmouth](/_img/dartmouth_baker_tower.j) -->
 
 From September of 2018 until March of 2021, I researched at Dartmouth as a research assistant and PhD student in the Dartmouth Security and Artificial Intelligence Lab (DSAIL). Due to personal issues which were exarcebated by the pandemic, I decided (after discussion with and with approval from the directors of the CS, PhD, and Masters programs) to transition out of DSAIL and complete the coursework required for a Masters degree in CS.
 
