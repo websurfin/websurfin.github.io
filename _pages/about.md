@@ -2,7 +2,7 @@
 layout:             page
 title:              About
 permalink:          /about/
-modified_date:      2021-07-08 13:30:00 -0400
+modified_date:      2021-07-08 23:30:00 -0400
 ---
 Hi there, I am Tommy White. This website is meant to serve as a professional portfolio of sorts for me as I make the transition into the CS industry.
 
