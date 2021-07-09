@@ -1,15 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: Home
 ---
 
-This is meant to be a simple, portfolio-style site to hold work done by Tommy White as well as blog
-posts. 
+Welcome to my portfolio website and beginnings of a blog! My name is Tommy. I am currently a Masters student in computer science at Dartmouth, where I have focused my education and research around the applications of machine learning to the cybersecurity space. The next step forward for me is to transition into industry and begin working on real-world problems rather than theory.
 
-Todo: replace the idea of an "about page" with actually filling out the homepage. Then, fill the
-about page with content about me and link to resume, etc.
+Take a look around, you can find more information about me in the `About` tab above, information about my projects in the `Projects` tab, contact information in the `Contact` tab as well as in the footer, and my blog posts listed further down on this page.
 
 <br />

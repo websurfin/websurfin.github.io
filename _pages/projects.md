@@ -2,17 +2,22 @@
 layout:             page
 title:              Projects
 permalink:          /proj/
-modified_date:      2021-07-06 13:40:00 -0400
+modified_date:      2021-07-08 20:00:00 -0400
 ---
 
 * dummy list needed for table of contents
 {:toc}
 
 ## Research at Dartmouth
-<br /><center><img src="/_img/dartmouth_baker_tower.jpg" alt="Baker Library at Dartmouth" width="600"></center> <br />
-<!-- ![Baker Library at Dartmouth](/_img/dartmouth_baker_tower.j) -->
-
 From September of 2018 until March of 2021, I researched at Dartmouth as a research assistant and PhD student in the Dartmouth Security and Artificial Intelligence Lab (DSAIL). Due to personal issues which were exarcebated by the pandemic, I decided (after discussion with and with approval from the directors of the CS, PhD, and Masters programs) to transition out of DSAIL and complete the coursework required for a Masters degree in CS.
+
+<br />
+<center>
+    <img src="/_img/dartmouth_aerial.jpg" alt="Dartmouth from above" width="600"> 
+    <br>
+    The Dartmouth campus from above
+</center> 
+<br />
 
 ### Cryptocurrency price prediction through social network analysis
 Starting in 2019, I began working on a project centered around analyzing the relationship between fluctuations in the prices of cryptocurrencies and interactions on social media. In particular, we looked at roughly the top 20 cryptocurrencies at the time per [CoinMarketCap](https://coinmarketcap.com/) and several months of posts from [Reddit](https://reddit.com/) and [Twitter](https://twitter.com/) related to these cryptocurrencies. This work was done with funding from and in collaboration with [VeChain](https://www.vechain.org/) - who also hosted a [blockchain technology workshop](https://news.dartmouth.edu/events/event?event=56046), featuring our work as one of the presentations.
@@ -59,10 +64,15 @@ A description page will be added to this site once I have time to add it. The so
 
 
 ## Cal Poly capstone projects
-
-<br /><center><img src="/_img/cal_poly_grad.JPG" width="600"></center><br />
-
 In undergrad, I completed both a major in computer science and a cross-disciplinary minor in data science as part of my studies at Cal Poly. For the minor, I had to complete a capstone (after completing 15+ other courses) which was a 6 month long, team-based industry collaboration in a data science project. For the major, I had to complete a senior project with rather open requirements, so I did a collaboration with a local AI start up in San Luis Obispo. 
+
+<br />
+<center>
+    <img src="/_img/cal_poly_above.jpg" alt="Cal Poly from above" width="600"> 
+    <br>
+    The Cal Poly campus (and neighboring region) from above 
+</center> 
+<br />
 
 ### Cal Poly data science capstone
 From January 2018 through June 2018, I worked in a team of three with [Owais Sarfaraz](https://www.linkedin.com/in/osarf/) and [Aleks Braksator](alexbrax.com) on a collaborative capstone project with [FICO](https://www.fico.com/). In this project, we worked with a dataset consisting of driving videos along with telemetric data for various driving trips. We worked under our Data Science minor advisors [Professor Dennis Sun](https://statistics.calpoly.edu/dennis-sun) and [Professor Alex Dekhtyar](http://users.csc.calpoly.edu/~dekhtyar/) as well as an advisor from FICO, [Steve Lakowske](https://www.linkedin.com/in/stephen-lakowske-96420b8/).
