@@ -39,13 +39,37 @@ After Cal Poly, I headed straight to grad school at [Dartmouth College](https://
 
 
 ## Looking for work!
-I am currently looking for employment as I will be completing my studies in November of 2021. 
+I am currently looking for employment as I will be completing my studies in November of 2021. I am looking for a position which will be full-time, with the requirement that I will have to work at most part-time during the period from September 12th, 2021 through December 5th, 2021 for my final academic term as a Masters student.
 
-Ideally, I would be able to work full-time until the academic term starts, part-time during my 
-final academic term, then return to full-time after the term ends. I will need to work either 
-remotely or near 
-[Hanover, NH](https://www.google.com/maps/d/embed?mid=17CjOoKyKoYhu9KP5Ru1QmxcKKgM) as well until
-at least summer of 2022.
+### What I am looking for
+#### Location
+I will need to either work remotely or  work at a location near [Hanover, NH](https://www.google.com/maps/d/embed?mid=17CjOoKyKoYhu9KP5Ru1QmxcKKgM) until at least summer of 2022.
+
+#### Position
+I want to be in a position where I have a clear path for progression at the company. I work best when I am faced with a challenging problem, so I would prefer to work in a team which actively strives to innovate. I am primarily qualified for and looking for a position in designing/deploying machine learning algorithms and systems. I am also very interested in working in cybersecurity (as I recently took a very interesting graduate course on the topic) or the intersection between cybersecurity and machine learning. I would also be interested in positions involving data engineering or designing large-scale backend solutions.
+
+### My qualifications
+I have a Bachelor's degree from Cal Poly, SLO, where I majored in computer science and minored in data science.
+
+I plan to finish a Master's degree in computer science at Dartmouth College by December 2021.
+
+#### Coding skills
+* I use Python (barring a few high-performance edge cases where I have used C++) in my machine learning work and for any small scripts I need to write. As such, most of my project work has been and will mostly continue to be in Python. 
+* Proficient (if a bit rusty) with Java, having used it at Amazon in a system with very high transactions per second as part of the Prime team.
+* Capable of writing C/C++ code well.
+* Comfortable using LaTex and Markdown to generate documents.
+* Getting better at using Git each day.
+* Happy to learn new languages/frameworks.
+
+#### Technical skills
+* Experienced at organizing computation for reliable, parallelized computation on very large datasets. 
+    * Processed ~4 TB of data in one social media project, in a set of computations which required thousands of CPU hours.
+* Comfortable using and designing APIs.
+    * Have done data scraping using pushshift, Reddit, Twitter, Google Cloud and other APIs, following rate limits where necessary.
+    * When at Amazon, my team focused on maintaining and improving an internal API to handle Prime benefit requests for clients based on a customer's region and Prime type.
+* Excellent at taking raw data and engineering a tidy, efficient form to use in the future.
+* I design code in a modular style which minimizes duplication of code. This also leads to a project structure which is easy to understand and consequently easier to work with.
+* Often complimented on the readability of my code
 
 
 ## Hobbies
