@@ -36,7 +36,7 @@ I graduated from [Cal Poly, San Luis Obispo](https://www.calpoly.edu/), in 2018 
 
 <br />
 <center>
-    <img src="/assets/images/cal_poly_grad.jpg" alt="Graduation day picture with my parents" width="600"> 
+    <img src="/assets/images/cal_poly_graduation.jpg" alt="Graduation day picture with my parents" width="600"> 
     <br>
     One of my graduation pictures with my parents.
 </center> 
