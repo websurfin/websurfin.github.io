@@ -36,7 +36,7 @@ I graduated from [Cal Poly, San Luis Obispo](https://www.calpoly.edu/), in 2018 
 
 <br />
 <center>
-    <img src="/_img/cal_poly_grad.jpg" alt="Graduation day picture with my parents" width="600"> 
+    <img src="/assets/images/cal_poly_grad.jpg" alt="Graduation day picture with my parents" width="600"> 
     <br>
     One of my graduation pictures with my parents.
 </center> 
@@ -47,7 +47,7 @@ After Cal Poly, I headed straight to grad school at [Dartmouth College](https://
 
 <br />
 <center>
-    <img src="/_img/dartmouth_baker_tower.jpg" alt="Baker Library at Dartmouth" width="600"> 
+    <img src="/assets/images/dartmouth_baker_tower.jpg" alt="Baker Library at Dartmouth" width="600"> 
     <br>
     Me in front of the Baker Tower at Dartmouth
 </center> 
@@ -94,7 +94,7 @@ I was very lucky to be afforded the opportunity to learn to ski at a very young 
 
 <br />
 <center>
-    <img src="/_img/killington_fog.jpg" alt="Foggy ski run at Killington" width="600"> 
+    <img src="/assets/images/killington_fog.jpg" alt="Foggy ski run at Killington" width="600"> 
     <br>
     A view from below of a foggy ski run at Killington Ski Resort in Vermont
 </center> 
@@ -108,7 +108,7 @@ Being located over an hour and a half from the ocean, Dartmouth is not a good pl
 
 <br />
 <center>
-    <img src="/_img/paddleboarding.jpg" alt="Mascoma Lake paddleboarding" width="600">
+    <img src="/assets/images/paddleboarding.jpg" alt="Mascoma Lake paddleboarding" width="600">
     <br>
     A view from the middle of Mascoma Lake in Enfield, NH
 </center> 

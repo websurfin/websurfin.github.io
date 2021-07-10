@@ -13,7 +13,7 @@ From September of 2018 until March of 2021, I researched at Dartmouth as a resea
 
 <br />
 <center>
-    <img src="/_img/dartmouth_aerial.jpg" alt="Dartmouth from above" width="600"> 
+    <img src="/assets/images/dartmouth_aerial.jpg" alt="Dartmouth from above" width="600"> 
     <br>
     The Dartmouth campus from above
 </center> 
@@ -68,7 +68,7 @@ In undergrad, I completed both a major in computer science and a cross-disciplin
 
 <br />
 <center>
-    <img src="/_img/cal_poly_above.jpg" alt="Cal Poly from above" width="600"> 
+    <img src="/assets/images/cal_poly_above.jpg" alt="Cal Poly from above" width="600"> 
     <br>
     The Cal Poly campus (and neighboring region) from above 
 </center> 
