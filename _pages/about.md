@@ -9,7 +9,8 @@ Hi there, I am Tommy White. This website is meant to serve as a professional por
 Here are the footnotes about me:
 * I am originally from Bellevue, Washington, a suburb of Seattle
 * I graduated with my undergraduate degree from Cal Poly SLO with a major in computer science with a minor in data science
-* After a few years as a PhD student/research assistant, I now plan to graduate with a masters in computer science by December of 2021
+* After a few years as a PhD student/research assistant, I ended up leaving my lab during the pandemic.
+* I have completed the requirements to graduate with a Master's in Computer Science at the end of this term (courses are done, some paperwork remaining).
 * I am now [looking for work](/about/#looking-for-work), starting immediately, in the fields of machine learning, data science/engineering, cybersecurity, or more general backend software engineering. 
     * Skills include Python (including pandas/numpy/keras/sklearn/etc), Java, LaTex/Markdown, C/C++, Git, R/ggplot, Linux/bash programming and more.
     * [See here for my resume](https://github.com/websurfin/hire-me/blob/main/latex/resume/main.pdf), as available publicly, on Github. Reach out to me if you need more details than I make available here.
@@ -43,7 +44,10 @@ I graduated from [Cal Poly, San Luis Obispo](https://www.calpoly.edu/), in 2018 
 <br />
 
 ### Graduate
-After Cal Poly, I headed straight to grad school at [Dartmouth College](https://home.dartmouth.edu/), pursuing a PhD in Computer Science. I began research in the Dartmouth Security and Artificial Intelligence Lab immediately upon arrival, and began finishing projects, attending conferences and publishing work. Unfortunately, the relationship between myself and my advisor was not conducive to me being able to get work done consistently, leading to stress and disorganization. Further, as I spent more time in the academic environment, I simply researched that the work and schedule associated with most jobs that require a PhD (mostly the grant-writing and grinding for funding/submission deadlines) After struggling with the stress and disorganization this caused, I eventually realized that I had to leave the lab and attempt to get a Masters degree for my own mental health and success.
+After Cal Poly, I headed straight to grad school at [Dartmouth College](https://home.dartmouth.edu/), pursuing a PhD in Computer Science. I began research in the Dartmouth Security and Artificial Intelligence Lab immediately upon arrival, and began finishing projects, attending conferences and publishing work. Unfortunately, the relationship between myself and my advisor was not conducive to me being able to get work done consistently, leading to stress and disorganization. Further, as I spent more time in the academic environment, I simply realized that the work and schedule associated with most jobs that require a PhD (mostly the grant-writing and grinding for funding/submission deadlines) did not match up with my passions. 
+
+After struggling with the stress, disillusionment, and disorganization this caused, I eventually realized that I had to leave the lab and attempt to get a master's degree for my own mental health and success. I completed the degree requirements for a Master's in Computer Science in the fall term of 2021 at Dartmouth.
+
 
 <br />
 <center>
@@ -54,11 +58,11 @@ After Cal Poly, I headed straight to grad school at [Dartmouth College](https://
 <br />
 
 ## Looking for work!
-I am currently looking for employment as I will be completing my studies in November of 2021. I am looking for a position which will be full-time, with the requirement that I will have to work at most part-time during the period from September 12th, 2021 through December 5th, 2021 for my final academic term as a Masters student.
+I am currently looking for employment, available to start immediately. I am looking for a position which will be full-time, with a focus on applied computation/backend development. In the applied computation space, I am most interested in data science, machine learning, cybersecurity/cryptography, social network analysis, and physical simulation, but I have a passion for thoroughly optimizing code designed for big data problems. In backend development, I would be most interested in architecture and design of elegant software solutions, as I have always enjoyed the finer points of abstraction and modularization. That said, I lack the industry experience needed for those sort of positions - for now - and am happy to do any backend or applied computation software engineering work to get the necessary experience.
 
 ### What I am looking for
 #### Location
-I will need to either work remotely or  work at a location near [Hanover, NH](https://www.google.com/maps/d/embed?mid=17CjOoKyKoYhu9KP5Ru1QmxcKKgM) until at least summer of 2022.
+I am open to remote work, as well as relocation to most locations (provided some tips or assistance on moving/finding lodging in town). I do have a preference to work remotely through 09/2022 if possible. I also have a preference for coastal California, due to my time spent there and friends/family that still live there.
 
 #### Position
 I want to be in a position where I have a clear path for progression at the company. I work best when I am faced with a challenging problem, so I would prefer to work in a team which actively strives to innovate. I am primarily qualified for and looking for a position in designing/deploying machine learning algorithms and systems. I am also very interested in working in cybersecurity (as I recently took a very interesting graduate course on the topic) or the intersection between cybersecurity and machine learning. I would also be interested in positions involving data engineering or designing large-scale backend solutions.
@@ -66,25 +70,27 @@ I want to be in a position where I have a clear path for progression at the comp
 ### My qualifications
 I have a Bachelor's degree from Cal Poly, SLO, where I majored in computer science and minored in data science.
 
-I plan to finish a Master's degree in computer science at Dartmouth College by December 2021.
+I have completed a Master's in Computer Science at Dartmouth College, with degree conferral expected soon.
 
 #### Coding skills
-* I use Python (barring a few high-performance edge cases where I have used C++) in my machine learning work and for any small scripts I need to write. As such, most of my project work has been and will mostly continue to be in Python. 
-* Proficient (if a bit rusty) with Java, having used it at Amazon in a system with very high transactions per second as part of the Prime team.
-* Capable of writing C/C++ code well.
-* Comfortable using LaTex and Markdown to generate documents.
-* Getting better at using Git each day.
+* I use Python (barring heavily used computational code or GPU code - where I will use C++) in my machine learning work and for any small scripts I need to write. As such, most of my project work has been and will mostly continue to be in Python. 
+* Proficient (if a bit rusty) with Java, having used it throughout my undergraduate education as well as during my one year junior developer position at Amazon in a system with very high transactions per second as part of the Prime team.
+* Proficient with C/C++ (and planning to learn Rust soon) and comfortable using Makefiles to specify dependencies.
+* Comfortable using LaTex and Markdown to generate tidy documents.
+* Competent with Git and getting better at using it each day.
 * Happy to learn new languages/frameworks.
 
 #### Technical skills
-* Experienced at organizing computation for reliable, parallelized computation on very large datasets. 
+* Experience with organizing computation for reliable, parallelized computation on very large datasets. 
     * Processed ~4 TB of data in one social media project, in a set of computations which required thousands of CPU hours.
 * Comfortable using and designing APIs.
     * Have done data scraping using pushshift, Reddit, Twitter, Google Cloud and other APIs, following rate limits where necessary.
     * When at Amazon, my team focused on maintaining and improving an internal API to handle Prime benefit requests for clients based on a customer's region and Prime type.
 * Excellent at taking raw data and engineering a tidy, efficient form to use in the future.
+    * Proved crucial when managing thousands of computation jobs on somewhat unreliable computation cluster.
+    * Key skill I gained was designing appropriate data artifacts, allowing my programs to identify missing/errant artifacts and run computation as necessary.
 * I design code in a modular style which minimizes duplication of code. This also leads to a project structure which is easy to understand and consequently easier to work with.
-* Often complimented on the readability of my code
+    * Often complimented on the readability of my code
 
 
 ## Hobbies

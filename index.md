@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Home
+title: Homepage
 ---
 
-Welcome to my portfolio website and beginnings of a blog! My name is Tommy. I am currently a Masters student in computer science at Dartmouth, where I have focused my education and research around the applications of machine learning to the cybersecurity space. The next step forward for me is to transition into industry and begin working on real-world problems rather than theory.
+Welcome to my portfolio website and beginnings of a blog! My name is Tommy. I have recently completed my Master's in Computer Science at Dartmouth. I came here originally as a PhD student, and I worked in a high-paced and challenging research environment for just over two years, before the pandemic made me realize the value of the peace of mind provided by the stable income in industry. I finished my time at Dartmouth taking a variety of challenging courses in applied computation (rendering algorithms, concurrent algorithms, security/privacy of machine learning, etc.) in order to prepare me for a transition into industry where I could be prepared for work in most applied computing fields. I am excited to begin working on real-world problems again rather than theory.
 
-Take a look around, you can find more information about me in the `About` tab above, information about my projects in the `Projects` tab, contact information in the `Contact` tab as well as in the footer, and my blog posts listed further down on this page.
+Take a look around, you can find more information about me in the `About` tab above, information about my projects in the `Projects` tab, contact information in the `Contact` tab as well as in the footer, and my blog posts listed further down on this page (none yet, but a few are in the works!).
 
 <br />
