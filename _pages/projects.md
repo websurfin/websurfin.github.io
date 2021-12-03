@@ -8,6 +8,32 @@ modified_date:      2021-07-08 20:00:00 -0400
 * dummy list needed for table of contents
 {:toc}
 
+## Academic Projects at Dartmouth
+During my last two terms at Dartmouth, I took primarily project-based courses (with the exception of an excellent cryptography course taught by [Sean Smith](https://www.cs.dartmouth.edu/~sws/)). These projects each allowed myself to practice developing code in different languages, frameworks, and applications, as they covered concepts including networks, cryptography, disparate vulnerability of demographic groups in machine learning, and personal assistants. I have detailed two of the more interesting ones below. 
+
+### Disparate Vulnerability of Adversarial Audio Example Attacks
+In this project, we explored the concept of [disparate vulnerability](https://arxiv.org/pdf/1906.00389.pdf): where data about individuals from certain demographics are more vulnerable to [attacks against machine learning](https://arxiv.org/abs/1706.06083) than other demographic groups.
+
+We specifically considered the case of adversarial example attacks - where an adversary is attempting to add some small amount random noise to a *real* example in order to cause a model to misclassify it - applied to audio data. We applied a genetic algorithm to generate adversarial audio examples, using the model and code from *Did You Hear That?*, by Alzantot et al.. We followed a stricter (though less rigorous) protocol for setting the level of random noise to add to the audio, as the noise level suggested by the authors produced very noticeably static-y audio.
+
+We then compared the effectiveness of the adversarial attack across gender and accent (as a proxy for ethnicity), using the [Common Voice dataset](https://commonvoice.mozilla.org/en/datasets) published by Mozilla. This required training our own audio classifier to be able to work with the labels present in Common Voice as opposed to the labels used in the [Speech Commands dataset](https://www.tensorflow.org/datasets/catalog/speech_commands) (which the authors of the attack paper used, but which does not have any information about the demographics of the speakers).
+
+We did not find evidence in our study of a gender disparity, but we did find significant evidence of disparity across different accents groups. The group most notably vulnerable to the attack in the Common Voice dataset were Malaysian speakers, but we have not yet completed analysis to attempt to identify why certain groups are more vulnerable in this case.
+
+In this project, I rewrote, debugged, and ran most of the experiments (due to my project partner recently upgrading to an M1 mac and having difficulty using tensorflow on their machine). This involved generating tens of thousands of one second long adversarial audio clips, with each clip initially taking over two minutes to complete! By applying some tricks that I had learned during my time using Python for computation in research, I was able to quickly cut the time down by 50%, but it was still running very slow. I eventually noticed that in the genetic update step, the authors go through two `parent` audio clips, one byte at a time, and choose to add a byte from one of the parents to the child. I introduced a constraint to allow the step size to be varied (random variation of some sort would likely approximate what's seen in the inspiration for genetic algorithms). Previously, this swapping operation had taken up 50% of the run time, but swapping in blocks of 32 makes this operation hardly noticeable (with no measurable decrease in attack quality that we found - but we would need to experiment further to test this).
+
+This project has motivated me further to apply machine learning in ways that can help promote safety, privacy, and security.
+
+### Blockchain for Local Music Consensus
+In this five person group project, my team worked on implementing a simple blockchain to solve a simple problem: what song should come next at the party? The usual answer is "whatever is up next on the dude's phone", but we thought a fun thought experiment would be to have an app that allowed for voting for the next song (and is hosted on the blockchain). The blockchain portion doesn't seem strictly necessary, but perhaps it could be a unique monetization strategy for an NFT bar in Williamsburg already.
+
+Initially, I worked largely on cryptography and object oriented design portions, along with a couple of other teammates. A few others handled laying out the code for device communication on a local network (using different nodes on the university cluster). When we brought the code together, it was a struggle of time constraints vs. cleanliness, though the team eventually realized that cleaner code would allow us to be more efficient when working together.
+
+In the end, we had a network where users could send commands to start a poll for a new song to be added to a global playlist (paying a significant amount of a coin associated with the blockchain, depending on the current length of the queue), to vote yes or no for an ongoing poll (paying a small amount of a coin associated with the blockchain), or to mine (packing together votes and helping determine the next song).
+
+This project challenged my teammates and me to implement a technology which I had only ever studied indirectly, and to apply this technology to a fun, simple problem.
+
+
 ## Research at Dartmouth
 From September of 2018 until March of 2021, I researched at Dartmouth as a research assistant and PhD student in the Dartmouth Security and Artificial Intelligence Lab (DSAIL). Due to personal issues which were exarcebated by the pandemic, I decided (after discussion with and with approval from the directors of the CS, PhD, and Masters programs) to transition out of DSAIL and complete the coursework required for a Masters degree in CS.
 

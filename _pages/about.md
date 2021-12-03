@@ -2,17 +2,17 @@
 layout:             page
 title:              About
 permalink:          /about/
-modified_date:      2021-07-08 23:30:00 -0400
+modified_date:      2021-12-02 23:30:00 -0400
 ---
 Hi there, I am Tommy White. This website is meant to serve as a professional portfolio of sorts for me as I make the transition into the CS industry.
 
 Here are the footnotes about me:
-* I am originally from Bellevue, Washington, a suburb of Seattle
+* I am originally from Bellevue, Washington, a suburb of Seattle.
 * I graduated with my undergraduate degree from Cal Poly SLO with a major in computer science with a minor in data science
-* After a few years as a PhD student/research assistant, I ended up leaving my lab during the pandemic.
-* I have completed the requirements to graduate with a Master's in Computer Science at the end of this term (courses are done, some paperwork remaining).
+* After about two years as a PhD student/research assistant in a fast-paced lab focusing on the intersection between security problems and ML, I ended up leaving my lab during the pandemic.
+* I am set to graduate with a Master's in Computer Science at the end of this term (courses are done, some paperwork remaining).
 * I am now [looking for work](/about/#looking-for-work), starting immediately, in the fields of machine learning, data science/engineering, cybersecurity, or more general backend software engineering. 
-    * Skills include Python (including pandas/numpy/keras/sklearn/etc), Java, LaTex/Markdown, C/C++, Git, R/ggplot, Linux/bash programming and more.
+    * Skills include Python (including pandas/numpy/tensorflow/keras/sklearn/etc), C++, Java, LaTex/Markdown, Git, R/ggplot, Linux/bash programming, distributed computation, large-scale computation, deep learning, graph neural networks, social network analysis, and more.
     * [See here for my resume](https://github.com/websurfin/hire-me/blob/main/latex/resume/main.pdf), as available publicly, on Github. Reach out to me if you need more details than I make available here.
 * Hobbies include skiing/snowboarding, surfing, paddleboarding, playing soccer/tennis, watching soccer/football, and hiking.
 
@@ -25,15 +25,18 @@ If you want more details, see the rest of the content in this page as well as my
 ## Education
 
 ### Undergraduate
-I graduated from [Cal Poly, San Luis Obispo](https://www.calpoly.edu/), in 2018 with a degree in computer science as well as a [rigorous, cross-disciplinary minor in data science](https://statistics.calpoly.edu/data-science-minor). During my time there I dabbled in a lot of things: 
-* Did an internship in signal processing at the [Aerospace Corporation](https://aerospace.org/), a research organization which closely collaborates with the Air Force
+I graduated from [Cal Poly, San Luis Obispo](https://www.calpoly.edu/), in 2018 with my Bachelor's in Computer Science as well as a [rigorous, cross-disciplinary minor in data science](https://statistics.calpoly.edu/data-science-minor). During my time there I did a lot to keep myself busy: 
+* Worked as a research intern on a team which focused on signal processing at the [Aerospace Corporation](https://aerospace.org/), a research organization which closely collaborates with the Air Force.
     * Interns got to see the launch pad for a [Delta IV Heavy rocket](https://en.wikipedia.org/wiki/Delta_IV_Heavy) in the summer that I worked there just a couple weeks before the rocket was set to take off!
-* Rose through the ranks to become president of the data science club at Cal Poly
-* Learned how to surf 
-* Interned for a bit under a year (part time during terms with classes, full time during summer) at a local Amazon location on the Amazon prime team
-    * Worked on backend code to ensure customers could receive their prime benefits
-* Worked as a peer data science assistant at the campus library
-* Briefly worked on a rather unorganized research project
+    * My work ended in a term-length project in which I conducted a proof-of-concept for a physically-based preprocessing technique, where I showed the tradeoff between accuracy and time saved if we were to implement the technique.
+* Served as treasurer, then president of the Data Science Club at Cal Poly, organizing recruting events and giving talks about machine learning concepts.
+* Taught myself how to surf.
+* Worked as a junior developer on the Amazon Prime team for a bit under a year (part time during terms with classes, full time during summer)
+    * Worked on backend code to ensure customers could receive their prime benefits.
+    * Rewrote and owned the code deployment and rollback pipeline which enabled our team to be able to react more quickly to issues in production. 
+* Worked as a peer data science assistant at the campus library.
+* Completed my senior project over two terms in collaboration with a local AI company, [Unanimous AI](https://unanimous.ai/).
+* Completed my data science minor capstone project over two terms in collaboration with [FICO](https://fico.com/).
 
 <br />
 <center>
@@ -44,7 +47,9 @@ I graduated from [Cal Poly, San Luis Obispo](https://www.calpoly.edu/), in 2018 
 <br />
 
 ### Graduate
-After Cal Poly, I headed straight to grad school at [Dartmouth College](https://home.dartmouth.edu/), pursuing a PhD in Computer Science. I began research in the Dartmouth Security and Artificial Intelligence Lab immediately upon arrival, and began finishing projects, attending conferences and publishing work. Unfortunately, the relationship between myself and my advisor was not conducive to me being able to get work done consistently, leading to stress and disorganization. Further, as I spent more time in the academic environment, I simply realized that the work and schedule associated with most jobs that require a PhD (mostly the grant-writing and grinding for funding/submission deadlines) did not match up with my passions. 
+After Cal Poly, I headed straight to grad school at [Dartmouth College](https://home.dartmouth.edu/), pursuing a PhD in Computer Science. I began research in the Dartmouth Security and Artificial Intelligence Lab immediately upon arrival. In the first year, I spent much of my time writing code for experiments and reading hundreds of papers to prepare for writing research papers in the field of ML as applied to graph data and security problems. Toward the end of the first year and into my second year I began finishing projects, attending/presenting at conferences and publishing work. 
+
+Unfortunately, the relationship between myself and my advisor was not conducive to me being able to get work done consistently, leading to stress and disorganization. Further, as I spent more time in the academic environment, I simply realized that the work and schedule associated with most jobs that require a PhD (mostly the grant-writing and grinding for funding/submission deadlines) did not match up with my passions. 
 
 After struggling with the stress, disillusionment, and disorganization this caused, I eventually realized that I had to leave the lab and attempt to get a master's degree for my own mental health and success. I completed the degree requirements for a Master's in Computer Science in the fall term of 2021 at Dartmouth.
 
