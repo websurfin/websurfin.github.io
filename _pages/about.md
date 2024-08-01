@@ -19,6 +19,8 @@ Here are the footnotes about me:
 
 If you want more details, see the rest of the content in this page as well as my [projects page](/proj/).
 
+## Table of contents
+
 <br />
 * dummy list needed for table of contents
 {:toc}

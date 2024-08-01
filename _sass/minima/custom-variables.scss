@@ -25,3 +25,24 @@ $border-color-03: $brand-color-light;
 $spacing-unit:      18px;
 $content-width:     1000px;
 $on-laptop:         1000px;
+
+// styles based on colors
+h1 {
+    color:  $h1-color;
+    font-weight: bold;
+  }
+
+h2 {
+    color: $h2-color;
+}
+
+// table of contents
+#markdown-toc::before {
+  content: "Contents";
+  font-weight: bold;
+}
+
+#markdown-toc {
+  border: 1px solid #bbbbbb;
+  padding: 1.5em;
+}

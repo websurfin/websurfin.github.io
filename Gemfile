@@ -1,14 +1,14 @@
 source "https://rubygems.org"
+gem "github-pages", "~> 231", group: :jekyll_plugins
 
 # building on default theme from Jekyll
-gem "minima", git: "https://github.com/jekyll/minima"
+gem "minima"
 
 # to use GitHub Pages, remove the "gem "jekyll"" uncomment the bundle line below`.
-# gem "jekyll", "~> 4.2.0"
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 3.9.5"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"  
+  gem "jekyll-feed", "~> 0.17.0"  
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
