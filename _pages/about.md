@@ -2,18 +2,19 @@
 layout:             page
 title:              About
 permalink:          /about/
-modified_date:      2021-12-02 23:30:00 -0400
+modified_date:      2024-08-01 07:50:00 -0800
 ---
-Hi there, I am Tommy White. This website is meant to serve as a professional portfolio of sorts for me as I make the transition into the CS industry.
+Hi there, I am Tommy White. This website is meant to serve as a professional portfolio of sorts for me as I work in the CS and AI industries.
 
 Here are the footnotes about me:
-* I am originally from Bellevue, Washington, a suburb of Seattle.
-* I graduated with my undergraduate degree from Cal Poly SLO with a major in computer science with a minor in data science
-* After about two years as a PhD student/research assistant in a fast-paced lab focusing on the intersection between security problems and ML, I ended up leaving my lab during the pandemic.
-* I am set to graduate with a Master's in Computer Science at the end of this term (courses are done, some paperwork remaining).
-* I am now [looking for work](/about/#looking-for-work), starting immediately, in the fields of machine learning, data science/engineering, cybersecurity, or more general backend software engineering. 
-    * Skills include Python (including pandas/numpy/tensorflow/keras/sklearn/etc), C++, Java, LaTex/Markdown, Git, R/ggplot, Linux/bash programming, distributed computation, large-scale computation, deep learning, graph neural networks, social network analysis, and more.
-    * [See here for my resume](https://github.com/websurfin/hire-me/blob/main/latex/resume/main.pdf), as available publicly, on Github. Reach out to me if you need more details than I make available here.
+* I grew up in Bellevue, Washington, a suburb of Seattle.
+* I graduated with my undergraduate degree from Cal Poly SLO with a major in computer science and a minor in data science.
+* I spent about 2.5 years as a PhD student/research assistant at Dartmouth in a fast-paced lab focusing on the intersection between security problems and ML, but I ended up leaving my lab during the pandemic to pursue further career/personal growth as well as stability in industry.
+* I graduated with a Masters degree in Computer Science in December 2021.
+* I have worked at American Express since 2022 in the space of AI/ML applied research.
+* I am not actively [looking for work](/about/#looking-for-work), though I maintain interest in exciting opportunities in the fields of machine learning, data science/engineering, cybersecurity, or more general backend software engineering. 
+    * Skills include Python (including pandas/numpy/pytorch/dask/tensorflow/keras/sklearn/etc), C++, Java, LaTex/Markdown, Git, R/ggplot, Linux/bash programming, distributed computation, large-scale computation, deep learning, work with LLMs, graph neural networks, social network analysis, and more.
+    * [See here for an old version of my resume](https://github.com/websurfin/hire-me/blob/main/latex/resume/main.pdf), as available publicly, on Github. Reach out to me if you need more details than I make available here.
 * Hobbies include skiing/snowboarding, surfing, paddleboarding, playing soccer/tennis, watching soccer/football, and hiking.
 
 If you want more details, see the rest of the content in this page as well as my [projects page](/proj/).
@@ -49,10 +50,9 @@ I graduated from [Cal Poly, San Luis Obispo](https://www.calpoly.edu/), in 2018 
 ### Graduate
 After Cal Poly, I headed straight to grad school at [Dartmouth College](https://home.dartmouth.edu/), pursuing a PhD in Computer Science. I began research in the Dartmouth Security and Artificial Intelligence Lab immediately upon arrival. In the first year, I spent much of my time writing code for experiments and reading hundreds of papers to prepare for writing research papers in the field of ML as applied to graph data and security problems. Toward the end of the first year and into my second year I began finishing projects, attending/presenting at conferences and publishing work. 
 
-Unfortunately, the relationship between myself and my advisor was not conducive to me being able to get work done consistently, leading to stress and disorganization. Further, as I spent more time in the academic environment, I simply realized that the work and schedule associated with most jobs that require a PhD (mostly the grant-writing and grinding for funding/submission deadlines) did not match up with my passions. 
+Unfortunately, my relationship with my advisor deteriorated - in large part due to the size of our lab with over 10 students to one advisor. Further, as I spent more time in the academic environment, I simply realized that the work and schedule associated with most jobs that require a PhD (mostly the grant-writing and grinding for funding/submission deadlines) did not match up with my passions. 
 
-After struggling with the stress, disillusionment, and disorganization this caused, I eventually realized that I had to leave the lab and attempt to get a master's degree for my own mental health and success. I completed the degree requirements for a Master's in Computer Science in the fall term of 2021 at Dartmouth.
-
+After struggling with the stress and disillusionment this caused - which was only compounded by the beginning of the pandemic in 2020 - I eventually realized that I had to leave the lab and attempt to get a master's degree for my own mental health and growth. I completed the degree requirements for a Master's in Computer Science in the fall term of 2021 at Dartmouth.
 
 <br />
 <center>
@@ -62,15 +62,15 @@ After struggling with the stress, disillusionment, and disorganization this caus
 </center> 
 <br />
 
-## Looking for work!
-I am currently looking for employment, available to start immediately. I am looking for a position which will be full-time, with a focus on applied computation/backend development. In the applied computation space, I am most interested in data science, machine learning, cybersecurity/cryptography, social network analysis, and physical simulation, but I have a passion for thoroughly optimizing code designed for big data problems. In backend development, I would be most interested in architecture and design of elegant software solutions, as I have always enjoyed the finer points of abstraction and modularization. That said, I lack the industry experience needed for those sort of positions - for now - and am happy to do any backend or applied computation software engineering work to get the necessary experience.
+## (Not) looking for work!
+Though I am currently not looking for work, I am always open to discussing interesting and exciting opportunities that will allow me to grow as a professional and a person. My primary passions within the CS space are applied computation, and backend development. In the applied computation space, I am most interested in data science, machine learning, cybersecurity/cryptography, social network analysis, and physical simulation, but I have a general passion for thoroughly optimizing code designed for big data problems. In backend development, I would be most interested in architecture and design of elegant software solutions, as I have always enjoyed the finer points of abstraction and modularization. That said, my primary experience is in data science/AI/ML applications in a rapid prototyping development - so if re-entering the software field I would need to be onboarded to an effective team in order to have the support needed to grow as a software engineer.
 
 ### What I am looking for
 #### Location
-I am open to remote work, as well as relocation to most locations (provided some tips or assistance on moving/finding lodging in town). I do have a preference to work remotely through 09/2022 if possible. I also have a preference for coastal California, due to my time spent there and friends/family that still live there.
+One of my biggest personal projects over the past couple of years has been to support my girlfriend during her medical school applications. This has included dozens of hours of studying, editing essays, and discussing options for her future. This year she did it! As a result, I have transitioned to working fully virtually at AMEX and we have moved to Ontario, California. As a result, I am only looking for work which is either in the LA/Irvine area (if required in office daily), within a ~4-6 hour drive with an understanding that the difference in current pay to new pay would need to be higher (if hybrid, would rent a studio or hotel room in town to spend 3 days a week at the office), or anything fully remote.
 
 #### Position
-I want to be in a position where I have a clear path for progression at the company. I work best when I am faced with a challenging problem, so I would prefer to work in a team which actively strives to innovate. I am primarily qualified for and looking for a position in designing/deploying machine learning algorithms and systems. I am also very interested in working in cybersecurity (as I recently took a very interesting graduate course on the topic) or the intersection between cybersecurity and machine learning. I would also be interested in positions involving data engineering or designing large-scale backend solutions.
+I enjoy working in a position where I have a clear path for progression at the company. I work best when I am faced with a challenging problem, so I would prefer to work in a team which actively strives to innovate. I am primarily qualified for and looking for a position in designing/deploying machine learning algorithms and systems. I am also very interested in working in cybersecurity, physical simulation, or other applied computing fields. I would also be interested in positions involving data engineering or designing large-scale backend solutions.
 
 ### My qualifications
 I have a Bachelor's degree from Cal Poly, SLO, where I majored in computer science and minored in data science.
@@ -101,7 +101,7 @@ I have completed a Master's in Computer Science at Dartmouth College, with degre
 ## Hobbies
 
 ### Skiing/snowboarding
-I was very lucky to be afforded the opportunity to learn to ski at a very young age by my parents and a non-profit program at my school to offer subsidized ski/snowboard programs. Because of this, I have been skiing since I was a kid. Later on, I picked up snowboarding and liked it even better than skiing! I even taught both skiing and snowboarding at the local mountain while in high school in order to get my season pass. I still try to snowboard most weekends here in New Hampshire. When I lived on the central coast of California to attend Cal Poly, I had to give up snowboarding for years because it was almost 4 hours to the nearest mountain and I was busy with my studies.
+I was very lucky to be afforded the opportunity to learn to ski at a very young age by my parents and a non-profit program at my school to offer subsidized ski/snowboard programs. Because of this, I have been skiing since I was a kid. Later on, I picked up snowboarding and liked it even better than skiing! I even taught both skiing and snowboarding at the local mountain while in high school in order to get my season pass. I managed to snowboard most weekends during the winter while living in New Hampshire. When I lived on the central coast of California to attend Cal Poly, I had to give up snowboarding for years because it was almost 4 hours to the nearest mountain and I was busy with my studies. Now that I live just an hour's drive away from Bear Mountain, I will be teaching my girlfriend how to snowboard over the next couple of years.
 
 <br />
 <center>
@@ -112,7 +112,7 @@ I was very lucky to be afforded the opportunity to learn to ski at a very young 
 <br />
 
 ### Surfing
-To fill the void left behind by snowboarding, I decided to learn how to surf with some friends of mine. Four of us in all learned how to surf together purely through repetition. Eventually we got pretty good, and I fell in love with the sport. I enjoyed it so much I even ended up making my own surfboard in a program offered by Cal Poly. Unfortunately, since moving to New Hampshire to attend Dartmouth for grad school I have not been able to make the 4 hour round trip drive to go surfing. I would love to live near the coast again someday to be able to surf again
+To fill the void left behind by snowboarding, I decided to learn how to surf with some friends of mine. Four of us in all learned how to surf together purely through repetition. Eventually we got pretty good, and I fell in love with the sport. I enjoyed it so much I even ended up making my own surfboard in a program offered by Cal Poly. Since returning to California, I have been setting up plans to get back into it in southern California!
 
 ### Paddleboarding
 Being located over an hour and a half from the ocean, Dartmouth is not a good place for a surfer. The beautiful lakes and rivers in the area, however, provided a fantastic place for me to learn how to paddleboard (by falling in - *a lot*). Paddleboarding has provided an excellent way to stay active and get out into nature, as well as some stunning views! 
@@ -126,4 +126,4 @@ Being located over an hour and a half from the ocean, Dartmouth is not a good pl
 <br />
 
 ### Other hobbies
-I try to stay fit by working out and playing soccer and tennis (though I am not particularly good at either). Though I played soccer since I was a kid, I only picked up tennis at 18. I also enjoy hiking, camping, watching soccer, watching football, and reading.
+I try to stay fit by working out and playing soccer and tennis (though I am not particularly good at either). Though I played soccer since I was a kid, I only picked up tennis at 17. I also enjoy hiking, camping, watching soccer, watching football, and reading.

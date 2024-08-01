@@ -2,11 +2,24 @@
 layout:             page
 title:              Projects
 permalink:          /proj/
-modified_date:      2021-07-08 20:00:00 -0400
+modified_date:      2028-08-01 07:45:00 -0800
 ---
 
 * dummy list needed for table of contents
 {:toc}
+
+## Projects at work
+For the past couple of years, I have applied deep learning methods (and occasionally traditional ML methods) to marketing problems at American Express, working primarily with Python, SQL (using Hive), and Spark (using PySpark). 
+
+<br />
+<center>
+    <img src="/assets/images/200_vesey_front.avif" alt="Entrance to AMEX Tower" width="600"> 
+    <br>
+    The Dartmouth campus from above
+</center> 
+<br />
+
+This has been all of my software work over the past few years other than a few interest projects (running Stable Diffusion to generate DnD character for my girlfriend, running LLMs locally for code generation, etc.). Feel free to ask about these in a more private setting (i.e. and interview rather than a public-facing website). I would be happy to discuss what I do, but publishing information about it in detail online would certainly violate a policy or two.
 
 ## Academic Projects at Dartmouth
 During my last two terms at Dartmouth, I took primarily project-based courses (with the exception of an excellent cryptography course taught by [Sean Smith](https://www.cs.dartmouth.edu/~sws/)). These projects each allowed myself to practice developing code in different languages, frameworks, and applications, as they covered concepts including networks, cryptography, disparate vulnerability of demographic groups in machine learning, and personal assistants. I have detailed two of the more interesting ones below. 
@@ -124,9 +137,9 @@ A description page will be added to this site and source code will be added to [
 After transitioning from being a PhD student to being a Masters student, I have found a lot more free time to code. So far, I have only been working on this website and a customized LaTex template for my resume, but I am excited to fill this section out more.
 
 ### Transitioning resume to LaTex
-Back in 2018 or so, I transitioned to using a [LaTex](https://www.latex-project.org/) resume using a theme that I found on [Overleaf](https://overleaf.com/). Using the interactive development environment on their website, the live compiling feature, the template repository, and many visits to the documentation, I was able to produce a very nice looking resume. It looked nice, but it never felt like I really
+Back in 2018 or so, I transitioned to using a [LaTex](https://www.latex-project.org/) resume using a theme that I found on [Overleaf](https://overleaf.com/). Using the interactive development environment on their website, the live compiling feature, the template repository, and many visits to the documentation, I was able to produce a very nice looking resume. It looked nice, but it never felt like I really understood LaTex beyond filling in content in a pre-curated template.
 
-In June of 2021 I finally decided to significantly rework my own LaTex template based on the original <> template from Overleaf. 
+In June of 2021 I finally decided to significantly rework my own LaTex template based on the original AltaCV template from Overleaf - which I have since modified significantly. 
 
 You can find the source code for the current version of my resume on Github:
 [websurfin][githome] /
@@ -134,7 +147,7 @@ You can find the source code for the current version of my resume on Github:
 
 
 ### Building this website
-In addition to revamping my resume, I started work on this website in late June of 2021.
+In addition to revamping my resume, I started work on this website in late June of 2021 to build my portfolio out digitally. If you can read this, it's working!
 
 You can find the source code for the website on Github:
 [websurfin][githome] / [websurfin.github.io](https://github.com/websurfin/websurfin.github.io)

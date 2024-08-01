@@ -13,14 +13,13 @@ relative_permalinks: false
 ## SITE SETTINGS
 title: TOMMY WHITE
 description: >- # this means to ignore newlines until next field
-  Hi, I'm Tommy. I like coding in Python, surfing on the coasts, snowboarding/backpacking in
-  the mountains, and relaxing in hammocks. 
+  Hi, I'm Tommy. I enjoy problem solving, keeping up-to-date with advancements in deep learning, 
+  surfing on the coasts, snowboarding/backpacking in the mountains, and relaxing in hammocks.
 baseurl: "" # set site subpath to be none (i.e. urls will start at tommy-w.com/)
 url: "https://tommy-w.com" # set base hostname with https
 
 author:
   name: Tommy White
-  email: "tw@tommy-w.com"
 
 ## BUILD SETTINGS
 theme: minima
